@@ -1,9 +1,10 @@
-![Profile Photo](https://github.com/Sajjadhz/sajjadhz/blob/master/30774845.jpeg)
+<div align="center">
+<img src="./30774845.jpeg" alt="Profile Photo" width="150" style="border-radius: 50%;" />
 
-# Hi 👋, I'm Sajjad Hosseinzadeh
+# Sajjad Hosseinzadeh
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast
-
+</div>
 I'm passionate about building scalable infrastructure and automating everything. My journey in DevOps has taken me deep into Kubernetes, cloud platforms like AWS, and tools that make deployment and management seamless.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-hosseinzadeh88)
