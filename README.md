@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./30774845.jpeg" alt="Profile Photo" width="150" style="border-radius: 50%;" />
+<img src="./my_photo.png" alt="Profile Photo" width="150" style="border-radius: 50%;" />
 
 # Sajjad Hosseinzadeh
 
